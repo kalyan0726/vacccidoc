@@ -1,0 +1,35 @@
+.bg-nav{
+    background: #43C6AC;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #191654, #43C6AC);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #191654, #43C6AC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+}
+.bg-nav1{
+    background: #16222A;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #3A6073, #16222A);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #3A6073, #16222A); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+}
+
+.mt-100{
+    margin-top:100px;
+
+}
+.mt-50{
+    margin-top:50px;
+}
+.p-3 {
+  padding: $spacer *50 !important;
+}
+.navbar-nav{
+}
+.navbar-right{
+    margin-right:100px;
+}
+.topnav-right {
+  float: right;
+}
