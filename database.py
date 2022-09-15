@@ -3,7 +3,7 @@ from pymongo import MongoClient
 import pytz
 import bcrypt
 
-cluster = MongoClient("mongodb+srv://kalyan0726:cluster0.fux9x.mongodb.net/myFirstDatabase?retryWrites=true")
+cluster = MongoClient("mongodb+srv:/6:cluster0.fux9x.mongodb.net/myFirstDatabase?retryWrites=true")
 db = cluster["vaccidoc"]
 collection = db["login_info"]
 
